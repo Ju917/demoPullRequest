@@ -1,10 +1,13 @@
 # demoPullRequest
+
+
 Noms des différentes personnes à rajouter ici:
+
 
 
 Najoua Ghrieb
 
-ajouter mon nom: Zaki SAIDI
+
 
 KAHINA GHIDOUCHE
 karima Saidi
@@ -14,4 +17,16 @@ Mamitiana Ramahefa
 Guillaume Lemire
 Rhayem cheker
 massinissa aklouche
+Adams Apaka
+Jean-Yves Bastien
+Fakhreddine Dhifallah
+ourdia laouari
+Yasmine
+Alpha Diallo
+JAAFAR SAGHIR
+Zaki SAIDI
+
+
+
+
 
