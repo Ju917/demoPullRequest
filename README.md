@@ -7,7 +7,7 @@ Noms des différentes personnes à rajouter ici:
 
 Najoua Ghrieb
 
-JAAFAR SAGHIR
+
 KAHINA GHIDOUCHE
 karima Saidi
 Julien
@@ -21,6 +21,8 @@ Jean-Yves Bastien
 Fakhreddine Dhifallah
 ourdia laouari
 Yasmine
+Alpha Diallo
+JAAFAR SAGHIR
 
 
 
