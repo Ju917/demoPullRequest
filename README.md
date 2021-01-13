@@ -2,14 +2,9 @@
 
 
 Noms des différentes personnes à rajouter ici:
-<<<<<<< HEAD
-Alpha Diallo
-=======
-
-
 
 Najoua Ghrieb
-
+Alpha Diallo
 KAHINA GHIDOUCHE
 karima Saidi
 Julien
