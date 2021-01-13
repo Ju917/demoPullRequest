@@ -3,9 +3,11 @@
 
 Noms des différentes personnes à rajouter ici:
 
+
+
 Najoua Ghrieb
-Alpha Diallo
-<<<<<<< HEAD
+
+
 KAHINA GHIDOUCHE
 karima Saidi
 Julien
@@ -19,6 +21,8 @@ Jean-Yves Bastien
 Fakhreddine Dhifallah
 ourdia laouari
 Yasmine
+Alpha Diallo
+JAAFAR SAGHIR
 
 
 
